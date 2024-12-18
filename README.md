@@ -31,7 +31,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# تطبيق وحي البيان (الاصدار 1.0.1)
+# تطبيق وحي البيان (الاصدار 1.0.2)
 
 <img src="screenshots\poster.png" alt="Application Poster">
 <table border="1" width="100%" align="center">
